@@ -1,8 +1,7 @@
-# About [yoyo.org_ips]
+# About yoyo.org_ips
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/yoyo.org_ips.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/yoyo.org_ips)
 
-[Description]
 
 --------------------------------------------------------------------------------
 
