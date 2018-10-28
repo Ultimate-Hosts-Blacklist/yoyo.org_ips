@@ -1,20 +1,19 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/yoyo.org_ips/domains.list": {
-        "1540491722": [
-            "<body>",
+        "to_test": [
             "</body>",
+            "</html>",
+            "</pre>",
+            "<body>",
             "<head>",
             "<html>",
-            "</html>",
+            "<p><pre>",
+            "<title>",
             "name=\"author\"",
             "name=\"description\"",
             "name=\"keywords\"",
-            "<p><pre>",
-            "</pre>",
             "rel='stylesheet'",
-            "server",
-            "<title>"
-        ],
-        "to_test": []
+            "server"
+        ]
     }
 }
