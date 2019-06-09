@@ -1,17 +1,17 @@
 {
     "current_stats": {
-        "builds": 4,
+        "builds": 5,
         "counter": {
-            "down": 1809,
-            "invalid": 6,
-            "tested": 4127,
-            "up": 2312
+            "down": 2219,
+            "invalid": 7,
+            "tested": 5060,
+            "up": 2834
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
-    "last_autosave_datetime": "Sun Jun  9 18:32:40 2019",
-    "last_autosave_epoch": 1560105160.024267,
+    "last_autosave_datetime": "Sun Jun  9 18:48:48 2019",
+    "last_autosave_epoch": 1560106128.422651,
     "name": "yoyo.org_ips",
     "raw_link": "https://pgl.yoyo.org/adservers/iplist.php?format=&showintro=0",
     "start_datetime": "Sun Jun  9 17:23:53 2019",
