@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 5,
-        "counter": {
-            "down": 3882,
-            "invalid": 5,
-            "tested": 10152,
-            "up": 6265
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Mon Aug 12 19:25:25 2019",
-    "end_epoch": 1565637925.843009,
+    "end_datetime": "Wed Aug 14 20:22:26 2019",
+    "end_epoch": 1565814146.527901,
     "last_autosave_datetime": "Wed Aug 14 19:55:36 2019",
     "last_autosave_epoch": 1565812536.325115,
     "name": "yoyo.org_ips",
     "previous_stats": {
         "builds": 6,
-        "clean.list": 6279,
+        "clean.list": 6277,
         "counter": {
-            "down": 4873,
+            "down": 4875,
             "invalid": 13,
             "tested": 11165,
-            "up": 6279
+            "up": 6277
         },
         "domains.list": 11165,
-        "volatile.list": 6279,
-        "whitelisted.list": 6279
+        "volatile.list": 6277,
+        "whitelisted.list": 6277
     },
     "raw_link": "https://pgl.yoyo.org/adservers/iplist.php?format=&showintro=0",
     "start_datetime": "Wed Aug 14 17:58:42 2019",
