@@ -3,8 +3,8 @@
 
 0.0.0.0 IP
 0.0.0.0 addresses
-0.0.0.0 ads">
 0.0.0.0 ads,
+0.0.0.0 ads">
 0.0.0.0 banners,
 0.0.0.0 blocking,
 0.0.0.0 blocking
@@ -21,6 +21,7 @@
 0.0.0.0 name="description"
 0.0.0.0 name="keywords"
 0.0.0.0 pgl@yoyo.org">
+0.0.0.0 <p><pre>
 0.0.0.0 </pre>
 0.0.0.0 privacy">
 0.0.0.0 rel='stylesheet'
