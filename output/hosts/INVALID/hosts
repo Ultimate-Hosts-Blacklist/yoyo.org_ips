@@ -3,21 +3,21 @@
 
 0.0.0.0 IP
 0.0.0.0 addresses
-0.0.0.0 ads">
 0.0.0.0 ads,
+0.0.0.0 ads">
 0.0.0.0 ads</title>
 0.0.0.0 banners,
-0.0.0.0 blocking,
 0.0.0.0 blocking
-0.0.0.0 </body>
+0.0.0.0 blocking,
 0.0.0.0 <body>
+0.0.0.0 </body>
 0.0.0.0 file,
 0.0.0.0 for
 0.0.0.0 <head>
 0.0.0.0 hosts
 0.0.0.0 href='/css/pgl.css'
-0.0.0.0 <html>
 0.0.0.0 </html>
+0.0.0.0 <html>
 0.0.0.0 lowe;
 0.0.0.0 name="author"
 0.0.0.0 ['name="author"', 'value="peter', 'lowe;', 'pgl@yoyo.org">']
