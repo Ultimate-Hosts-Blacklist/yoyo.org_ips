@@ -1,19 +1,19 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2021-07-12T13:27:14.458840",
     "end_epoch": 1626096434.45884,
     "issue_link": "mailto:pgl@yoyo.org",
     "link": "https://pgl.yoyo.org/adservers/iplist.php?format=&showintro=0",
     "name": "yoyo.org_ips",
-    "previous_end_datetime": "2021-07-10T08:26:47.369924",
-    "previous_end_epoch": 1625905607.369924,
-    "previous_start_datetime": "2021-07-09T02:17:42.933730",
-    "previous_start_epoch": 1625797062.93373,
+    "previous_end_datetime": "2021-07-12T13:27:14.458840",
+    "previous_end_epoch": 1626096434.45884,
+    "previous_start_datetime": "2021-07-11T08:15:33.178200",
+    "previous_start_epoch": 1625991333.1782,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://pgl.yoyo.org/adservers/iplist.php?format=&showintro=0",
-    "start_datetime": "2021-07-11T08:15:33.178200",
-    "start_epoch": 1625991333.1782
+    "start_datetime": "2021-07-13T02:16:35.756761",
+    "start_epoch": 1626142595.756761
 }
