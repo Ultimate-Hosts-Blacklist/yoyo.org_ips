@@ -1,0 +1,15 @@
+[
+    {
+        "checker_type": "AVAILABILITY",
+        "destination": "domains.list",
+        "hash": "32bd4d12c35862832627b7a9fdc3b6a43aadbfdf45eaa399101f72ca",
+        "line_number": 10027,
+        "output_dir": "/home/runner/work/yoyo.org_ips/yoyo.org_ips/output/domains.list",
+        "previous_hash": "32bd4d12c35862832627b7a9fdc3b6a43aadbfdf45eaa399101f72ca",
+        "session_id": "deacc0d36dbfed0652cb90d2",
+        "source": "domains.list",
+        "subject": "domains.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
